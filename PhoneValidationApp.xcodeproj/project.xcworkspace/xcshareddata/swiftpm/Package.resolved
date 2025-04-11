@@ -1,0 +1,24 @@
+{
+  "originHash" : "4d23b6404c561547099e4f77f389e12aaa1d38b9980fd77e7c40d70993e4c1ca",
+  "pins" : [
+    {
+      "identity" : "countrypickerview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kizitonwose/CountryPickerView.git",
+      "state" : {
+        "revision" : "6ecf22145d577411fb97c8c964df0fb5886f035f",
+        "version" : "3.3.0"
+      }
+    },
+    {
+      "identity" : "libphonenumber-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iziz/libPhoneNumber-iOS.git",
+      "state" : {
+        "revision" : "3220b4027117c41f076f1bcc7f3c492ab8957348",
+        "version" : "1.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
